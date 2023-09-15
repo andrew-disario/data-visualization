@@ -9,6 +9,7 @@ In this study, population trends in the United States and China were tracked and
 
 - <b>Python</b> 
 - <b>Pandas</b>
+- <b>Matplotlib</b>
 
 <h2>Environments:</h2>
 
