@@ -1,7 +1,7 @@
 <h1>Data Visualization</h1>
 
 <h2>Description:</h2>
-In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007, ever five years. When run, population data from the associated .csv file is imported and modelled via a line plot displaying the differences in trends in population (in millions) displayed over five year increments.
+In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007 every five years. When run, population data from the associated .csv file is imported and modelled via a line plot displaying the differences in trends in population (in millions) displayed over five year increments.
 <br />
 
 
