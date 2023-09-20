@@ -4,6 +4,10 @@
 In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007 every five years. When run, population data from the associated .csv file is imported and modelled via a line plot displaying the differences in trends in population (in millions) displayed over five year increments.
 <br />
 
+<p align="center">
+<br />
+<img src="https://github.com/andrew-disario/data-visualization/blob/main/output.png?raw=true" height="40%" width="40%" alt="Data Visualization"/>
+<br />
 
 <h2>Languages and Libraries:</h2>
 
@@ -19,3 +23,4 @@ In this study, population trends in the United States and China were tracked and
 
 - <b>[data-visualizationl.ipynb](https://github.com/andrew-disario/data-visualization/blob/main/data-visualization.ipynb)</b> 
 - <b>[countries.csv](https://github.com/andrew-disario/data-visualization/blob/main/countries.csv)</b> 
+- <b>[output.png](https://github.com/andrew-disario/data-visualization/blob/main/output.png)</b> 
